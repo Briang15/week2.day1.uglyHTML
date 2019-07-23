@@ -1,0 +1,38 @@
+head{
+    background-color: rgb(53, 53, 53)
+}
+
+body{
+    background-color: rgb(53, 53, 53)
+}
+
+footer{
+    background-color:  rgb(53, 53, 53)
+}
+
+header{
+    font-family: 'Tangerine', 'cursive';
+    font-size: 72px;
+    text-align: center;
+    margin: 20px;
+}
+
+.top h3{
+    font-family:'Unica One', cursive;
+    font-size: 26px;
+    text-align: center
+}
+
+.top img{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 540px;
+}
+
+.watch_container{
+    h2{
+        border: 5px; 
+    }
+      
+}
